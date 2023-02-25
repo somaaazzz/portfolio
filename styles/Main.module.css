@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  font-family: AlegreyaSans;
+  font-size: 2rem;
+  padding-top: 15rem;
+  padding-left: 10rem;
+}
+
+.myname {
+  font-family: AbrilFatface;
+  font-size: 5rem;
+  color: #ed9b40;
+}
+
+.center {
+  display: flex;
+  align-items: flex-end;
+  gap: 1.5rem;
+  border-bottom: #d9d9d9 solid ;
+  width:fit-content;
+}
+
+.center .text {
+  margin-bottom: 1rem;
+}
+
+.buttom {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+}
+
+.top {
+  width: fit-content;
+  border-bottom: #d9d9d9 solid;
+  padding-bottom: 0.5rem;
+}

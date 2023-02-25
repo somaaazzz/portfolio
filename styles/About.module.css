@@ -1,0 +1,43 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  border-top: #d9d9d9 1px solid;
+  margin-left: 4rem;
+  margin-right: 4rem;
+  gap: 2rem;
+}
+.education {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.aboutme {
+  display: flex;
+  gap: 2rem;
+}
+
+.header1 {
+  font-size: 2rem;
+  color:#ed9b40;
+}
+
+.portrait {
+  border-radius: 16px;
+  margin-left: 1rem;
+}
+
+.header2 {
+  font-size: 1.8rem;
+}
+
+.text {
+  font-family: Alegreya;
+  font-size: 1.3rem;
+}
+.bottom {
+  display: flex;
+  flex-direction: column;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}

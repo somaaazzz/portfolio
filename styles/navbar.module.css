@@ -1,0 +1,22 @@
+.navbar {
+  display:flex;
+  padding: 0rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  justify-content: space-between;
+}
+
+
+
+.navitem{
+  color: #d9d9d9;
+  font-size: 1.5rem;
+  font-family: "AlegreyaSans";
+  margin-top: 1rem;
+}
+
+.link:hover {
+  color: #ed9b40;
+  transition: .7s;
+}
+
