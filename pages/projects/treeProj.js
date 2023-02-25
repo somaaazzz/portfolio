@@ -1,7 +1,6 @@
-import Navbar from "../../components/navbar";
+import Navbar from "../../components/Navbar";
 import Head from "next/head";
 import styles from "../../styles/quizProj.module.css";
-import Image from "next/image";
 
 export default function treeProj() {
   return (

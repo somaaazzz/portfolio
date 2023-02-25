@@ -1,4 +1,4 @@
-import Navbar from "../../components/navbar";
+import Navbar from "../../components/Navbar";
 import Head from "next/head";
 import styles from "../../styles/mazeProj.module.css";
 import Image from "next/image";
