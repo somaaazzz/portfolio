@@ -24,7 +24,7 @@ const Navbar = () => {
         </a>
       </div>
       <div className={styles.navitem}>
-        <a href="/#resume" className={styles.link}>
+        <a href="/resume-soma-tomita.pdf" className={styles.link}>
           resume
         </a>
       </div>
