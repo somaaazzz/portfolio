@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>home</title>
+        <title>Soma Tomita</title>
       </Head>
       <Navbar></Navbar>
       <div className={styles.container} id="home">
